@@ -4,4 +4,4 @@ Renana perubahan
 - Batasi penggunaan sosial media
 - Membangun beberapa aplikasi
 - Mempelajari Javascript Framework React JS
-- Mempelajari PHP Framework Codeigniter
+- Mempelajari PHP Framework Codeigniter dan Laravel
