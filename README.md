@@ -1,1 +1,1 @@
-# my-resolusi
+resolusi saya untuk kedepannya
