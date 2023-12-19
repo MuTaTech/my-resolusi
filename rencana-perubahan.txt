@@ -2,5 +2,6 @@ Renana perubahan
 - Mempelajari softskill dan hardskill
 - Mendalami ilmu networking
 - Batasi penggunaan sosial media
-- Mempelajari Javascript Framework Vue JS
-- Mempelajari PHP Framework Laravel
+- Membangun beberapa aplikasi
+- Mempelajari Javascript Framework React JS
+- Mempelajari PHP Framework Codeigniter dan Laravel
