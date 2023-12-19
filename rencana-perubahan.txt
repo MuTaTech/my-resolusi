@@ -3,3 +3,5 @@ Renana perubahan
 - Mendalami ilmu networking
 - Batasi penggunaan sosial media
 - Membangun beberapa aplikasi
+- Mempelajari Javascript Framework React JS
+- Mempelajari PHP Framework Codeigniter
